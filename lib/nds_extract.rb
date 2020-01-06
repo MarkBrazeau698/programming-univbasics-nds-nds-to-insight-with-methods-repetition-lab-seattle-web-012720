@@ -50,9 +50,9 @@ def total_gross(source)
   # return the total
   
   index = 0 
-   # while index < source.length do
-      #total = directors_totals(source[0][index])
-  #binding.pry
+   #while index < source.length do
+      total = directors_totals(source)
+  binding.pry
   
   
   
