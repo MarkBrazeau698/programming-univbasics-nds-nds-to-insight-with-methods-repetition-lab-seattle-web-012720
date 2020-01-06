@@ -51,7 +51,7 @@ def total_gross(source)
   totallity = 0
   index = 0 
    #while index < source.length do
-      list_of_directors(source)
+     dires = list_of_directors(source)
      binding.pry 
   
 end
