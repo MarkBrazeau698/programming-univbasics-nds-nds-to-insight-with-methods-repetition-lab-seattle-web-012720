@@ -52,7 +52,7 @@ def total_gross(source)
   index = 0 
    while index < source.length do
       total = directors_totals(source)
-      gross = total[index[]]
+      total.sum
  
   binding.pry
   
