@@ -54,10 +54,7 @@ def total_gross(source)
       list_of_directors(source)
      binding.pry 
   
-  
 end
-  
-  
   
 end
 
