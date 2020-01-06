@@ -49,11 +49,10 @@ def total_gross(source)
   # returned by directors_totals, and add it to a running total. When done,
   # return the total
   
-  total = 0
   index = 0 
-  
-    
-  
+   # while index < source.length do
+      #total = directors_totals(source[0][index])
+  binding.pry
   
   
   
