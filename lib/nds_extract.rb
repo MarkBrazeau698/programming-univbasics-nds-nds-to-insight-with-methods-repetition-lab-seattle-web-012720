@@ -50,10 +50,9 @@ def total_gross(source)
   # return the total
   totallity = 0
   index = 0 
-   while index < source.length do
-      total = directors_totals(source)
-      total.sum
- total
+   #while index < source.length do
+      list_of_directors(source)
+     binding.pry 
   
   
 end
